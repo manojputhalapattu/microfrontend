@@ -9,7 +9,7 @@ on:
 
 defaults:
   run:
-    working-directory: pacakges/container
+    working-directory: packges/container
 
 jobs:
   build:
