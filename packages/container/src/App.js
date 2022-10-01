@@ -12,6 +12,7 @@ export default () => {
             <h1> Hi there in container </h1>
             <hr/> 
             <MarketingApp />
+            
         </div>
     );
 };
