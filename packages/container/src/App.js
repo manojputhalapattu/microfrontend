@@ -1,5 +1,4 @@
 import React, { lazy, Suspense, useState } from 'react';
-import { mount } from 'marketing/MarketingApp';
 import Header from './components/Header';
 import { BrowserRouter, Switch, Route } from 'react-router-dom';
 import { StylesProvider, createGenerateClassName } from '@material-ui/core/styles';
